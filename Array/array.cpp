@@ -38,3 +38,19 @@
 //     cout << endl;
 //     return 0;
 // }
+
+//Input Value In Array
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int marks[5];
+//     int length = sizeof(marks) / sizeof(int);
+//     for(int i = 0; i < length; i++){
+//         cin >> marks[i];
+//     }
+//     for(int i = 0; i < length; i++){
+//         cout << marks[i]<< ",";
+//     }
+    
+//     return 0;
+// }
