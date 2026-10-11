@@ -4,7 +4,7 @@
 
 ## Topic
 ```
- **Array**
+ Array
 - Largest Element In Array
 - Smallest Element In Array
 - Linear Search
