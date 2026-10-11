@@ -25,3 +25,30 @@ int main(){
 
     return 0;
 }
+
+// Without Extra Space
+//Without Extra Space
+#include <iostream>
+using namespace std;
+void printArr(int *arr ,int n){
+    for(int i =0 ; i<n; i++){
+        cout << arr[i]<<",";
+    }
+    cout << endl;
+}
+int main(){
+    int arr[] = {2,3,5,9,6};
+    int n = sizeof(arr) / sizeof(int);
+    int start = 0 , end = n-1;
+    while(start < end){
+        //swap
+        // int temp = arr[start];
+        // arr[start] = arr[end];
+        // arr[end] = temp;
+        start ++;
+        end--;
+
+    }
+    printArr(arr,n);
+    return 0;
+}
