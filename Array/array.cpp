@@ -70,15 +70,34 @@
 // }
 
 //Array are passed by refrence
-#include <iostream>
-using namespace std;
-int main(){
-    int a = 5;
-    int *ptr = &a;
-    cout << ptr<<endl;
-    int arr[] = {1,2,3,4,5};
-    cout << arr<<endl;
-    cout <<&arr[1]<<endl;
-    cout << &arr;
-    return 0;
-}
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int a = 5;
+//     int *ptr = &a;
+//     cout << ptr<<endl;
+//     int arr[] = {1,2,3,4,5};
+//     cout << arr<<endl;
+//     cout <<&arr[1]<<endl;
+//     cout << &arr;
+//     return 0;
+// }
+
+//Array passed by reference
+// #include <iostream>
+// using namespace std;
+// void func(int arr[]){
+//     arr[0] = 1000;
+// }
+// void func2(int *ptr){
+//     ptr[0] = 1000;
+// }
+// int main(){
+//     int arr[] = {2,3,4,5,6};
+//     // func(arr);
+//     // cout << arr[0];
+//     func2(arr);
+//     cout << arr[0];
+
+//     return 0;
+// }
