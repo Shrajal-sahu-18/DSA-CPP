@@ -17,3 +17,9 @@ int binarysearch(int *arr,int n, int key){
 
     }return -1;
 }
+int main(){
+    int arr[] = {2,4,6,8,10,12,14,16};
+    int n = sizeof(arr) / sizeof(int);
+    cout << binarysearch(arr,n,12)<<endl;
+    return 0;
+}
