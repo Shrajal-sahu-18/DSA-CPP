@@ -117,3 +117,20 @@
 
 //     return 0;
 // }
+
+//Pointer Arithematic
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     // int a = 10;
+//     // int *ptr = &a;
+//     // cout << ptr << endl;
+//     // ptr++;
+//     // cout <<ptr <<endl;
+//     char ch = 'a';
+//     char *ptr = &ch;
+//     cout << ptr << endl;
+//     ptr++ ;
+//     cout << ptr << endl;
+//     return 0;
+//}
