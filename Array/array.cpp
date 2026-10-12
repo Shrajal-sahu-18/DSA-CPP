@@ -143,3 +143,10 @@
 //     int *ptr = &a;
 //     cout << ptr <<endl;
 //     ptr++;
+//     cout << ptr << endl;
+//     ptr--;
+//     cout << ptr << endl;
+//     return 0;
+
+
+// }
