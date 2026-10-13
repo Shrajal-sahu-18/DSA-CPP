@@ -9,4 +9,5 @@
 - Smallest Element In Array
 - Linear Search
 - Reverese Array
+Binary Search Algorithm
 ```
