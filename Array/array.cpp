@@ -209,3 +209,5 @@ int main(){
     return 0;
 }
 // Pointer Arithematic
+#include <iostream>
+using namespace;
