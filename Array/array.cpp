@@ -210,4 +210,7 @@ int main(){
 }
 // Pointer Arithematic
 #include <iostream>
-using namespace;
+using namespace std;
+int main(){
+
+}
