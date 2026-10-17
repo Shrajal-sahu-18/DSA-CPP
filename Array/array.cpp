@@ -226,3 +226,12 @@ int main(){
     cout << sum;
     return 0;
 }
+
+
+#include <iostream>
+using namespace std;
+int main(){
+    int arr[] = {2,3,4,5,6,7,8};
+    int count = 0;
+    return 0;
+}
