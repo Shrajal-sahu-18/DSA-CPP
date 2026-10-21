@@ -247,3 +247,7 @@ int main(){
 
 #include <iostream>
 using namespace std;
+
+int main() {
+    int arr[] = {12, 45, 7, 89, 23};
+    int n = sizeof(arr) / sizeof(int);
