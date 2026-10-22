@@ -4,6 +4,7 @@ using namespace std;
 void printsubarray(int *arr,int n){ //n
     for(int start = 0; start  < n; start++){  //n
         for(int end = start; end<n;end++){ //n
+            cout <<"(" << start << "," << end << ")";
 int main(){
 
     return 0;
