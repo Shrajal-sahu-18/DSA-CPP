@@ -8,6 +8,11 @@ void printsubarray(int *arr,int n){ //n
         for(int i =  start; i <= end; i++){
                 cout << arr[i];
             }
+            cout << ",";
+        }
+        cout << endl;
+    }
+}
 int main(){
 
     return 0;
