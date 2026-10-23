@@ -258,3 +258,5 @@ int main() {
             largest = arr[i];
         }
     }
+    return 0;
+}
