@@ -268,3 +268,6 @@ int main(){
     int n  = sizeof(arr) / sizeof(int);
     return 0;
 }
+
+#include <iostream>
+using namespace std;
