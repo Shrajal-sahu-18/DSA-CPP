@@ -1,4 +1,4 @@
-// Sub Array
+// Sub Array.
 #include <iostream>
 using namespace std;
 void printsubarray(int *arr,int n){ //n
