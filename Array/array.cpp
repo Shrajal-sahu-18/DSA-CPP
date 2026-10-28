@@ -301,3 +301,6 @@ int main() {
     double average = (double)sum / n;
 
     cout << "Average = " << average;
+
+    return 0;
+}
