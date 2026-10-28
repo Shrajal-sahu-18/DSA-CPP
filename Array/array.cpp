@@ -297,3 +297,7 @@ int main() {
     for (int i = 0; i < n; i++) {
         sum += arr[i];
     }
+
+    double average = (double)sum / n;
+
+    cout << "Average = " << average;
