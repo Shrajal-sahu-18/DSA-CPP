@@ -18,3 +18,10 @@ void maxsubarraysum(int *arr,int n){
     cout << "Maximum Subarray Sum =" << maxsum << endl;
     
 }
+int main(){
+    int arr[] = {2,-3,6,-5,4,2};
+    int n = sizeof(arr) / sizeof(int);
+    maxsubarraysum(arr,n);
+
+    return 0;
+}
