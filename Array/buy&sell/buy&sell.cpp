@@ -17,3 +17,9 @@ void maxprofit(int *prices , int n){
     }
     cout << "MaxProfit ==>" << maxprofit << endl;
 }
+int main(){
+    int prices[] = {7,1,5,3,6,4};
+    int n = sizeof(prices) / sizeof(int);
+    maxprofit(prices,n);
+    return 0;
+}
