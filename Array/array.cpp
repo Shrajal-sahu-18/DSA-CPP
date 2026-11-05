@@ -320,5 +320,7 @@ int main(){
             odd ++;
 
     }
+    cout << "Even = "<< even << endl;
+    cout << "Odd = " << odd << endl;
     return 0;
 }
