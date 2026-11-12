@@ -334,3 +334,5 @@ using namespace std;
 int main() {
     int arr[] = {10, 50, 30, 80, 60};
     int n = 5;
+    int largest = INT_MIN;
+    int secondLargest = INT_MIN;
