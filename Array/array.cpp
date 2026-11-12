@@ -324,3 +324,13 @@ int main(){
     cout << "Odd = " << odd << endl;
     return 0;
 }
+
+
+
+#include <iostream>
+#include <climits>
+using namespace std;
+
+int main() {
+    int arr[] = {10, 50, 30, 80, 60};
+    int n = 5;
