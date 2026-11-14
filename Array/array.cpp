@@ -346,3 +346,5 @@ int main() {
             secondLargest = arr[i];
         }
     }
+    return 0;
+}
