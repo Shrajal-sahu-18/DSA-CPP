@@ -17,3 +17,10 @@
 //     }
 //     print(arr,n);
 // }
+// int main(){
+//     int arr[] = {5,4,1,3,2};
+//     int n = sizeof(arr) / sizeof(int);
+//     Bubblesort(arr,n);
+
+//     return 0;
+// }
