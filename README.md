@@ -11,4 +11,5 @@
 - Reverese Array
 - Binary Search Algorithm
 - Second largest element
+- Bubble Sort
 ```
