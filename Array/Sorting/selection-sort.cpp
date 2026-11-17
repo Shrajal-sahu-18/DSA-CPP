@@ -18,3 +18,10 @@ void selectionsort(int *arr,int n){
     }
     print(arr,n);
 }
+int main(){
+    int arr[] = {5,4,3,2,1};
+    int n = sizeof(arr) / sizeof(int);
+    selectionsort(arr,n);
+
+    return 0;
+}
