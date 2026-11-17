@@ -12,4 +12,5 @@
 - Binary Search Algorithm
 - Second largest element
 - Bubble Sort
+- Selection Sort
 ```
